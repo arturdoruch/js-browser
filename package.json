@@ -4,5 +4,10 @@
   "keywords": ["scroll bar", "unload scroll bar", "browser utils"],
   "version": "1.0.0",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "author": {
+    "name": "Artur Doruch",
+    "email": "arturdoruch@interia.pl"
+  },
+  "homepage": "https://github.com/arturdoruch/js-browser"
 }
