@@ -1,0 +1,8 @@
+{
+  "name": "@arturdoruch/browser",
+  "description": "Browser utilities and helpers",
+  "keywords": ["scroll bar", "unload scroll bar", "browser utils"],
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module"
+}
