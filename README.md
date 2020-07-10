@@ -2,6 +2,12 @@
 
 Browser utilities and helpers.
 
+## Install
+
+```
+yarn add @arturdoruch/browser
+```
+
 ## Contents
 
  * browser-utils.js
